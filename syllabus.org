@@ -1,0 +1,97 @@
+#+TITLE: INF 1501: Culture and Technology I
+#+NAME: Gabby Resch and Matt Ratto
+#+STARTUP: showall
+#+TODO: TODO COLLECTED GRADED
+#+TODO: TODO DONE
+
+# see rob kitchin's syllabus https://github.com/jkitchin/s16-06640/blob/master/syllabus.org
+
+# for class, make sure they aren't technology-specific weeks
+# each week is a story where format matters, then we have readings that give them resources
+# week on data-driven life
+# need to prompt them at the end for what they'll work toward in culture and tech II as far as intervening
+# need to make it more appealing to UxD students
+# maybe some active micro-assignments
+
+* Course details
+  :PROPERTIES:
+  :VISIBILITY: folded
+  :END:
+
+INF 1501: Culture and Technology I - Fall 2017
+
+Instructors: Professor Matt Ratto, Semaphore Research Cluster, matt.ratto@utoronto.ca; Gabby Resch, Semaphore Research Cluster, gabby.resch@utoronto.ca
+
+Office hours by appointment.
+
+Class times and location: Monday, Bissell somewhere, 6:30-9:30pm
+
+The course repository is located at https://github.com/criticalmaking/INF1501.
+
+** Overview
+The course is an introduction to some of the main approaches to understanding and intervening in the culture-technology nexus. It is intended primarily as an orientation for students in the Culture & Technology stream of the Masters of Information program, but provides knowledge and skills to any graduate student exploring Science & Technology Studies, Critical Media Studies, or the Digital Hmanities. In the first part of the course, we explore some of the diverse approaches that have been brought to bear on this rich and densely-populated intersection: philosophical, sociological, anthropological, historical, literary, etc. In the second part, we turn to a series of thematics with broad resonance for students interested specifically in information technologies. Throughout, our goals will be:
+- to challenge received conceptions of the objects of study (science, technology, culture, information) and consider how the readings help us to come to more nuanced, complex, and effective understandings; 
+- to acquire a rough map of the theoretical and methodological approaches that converge on "Technology and Culture", and understand how different approaches reinforce, complement, and contradict each other; 
+- to ask how these analyses can be used as tools to intervene effectively in debates about the appropriate relationship between cultural and technological artifacts in the information age. 
+
+** Class Structure
+This course is structured as a /graduate seminar/. We will open each class with a discussion of the course texts and their background; this “lecture” should never last more than an hour.  The ensuing discussion will generally last approximately one more hour, and you will be expected to participate actively.  Each week approximately three of you will be assigned to help lead the discussion by identifying themes and questions from the text. This is not a formal class presentation, but a way to practice stepping up and taking a leadership role in a group setting; it will be marked as part of your participation grade.
+
+The final hour or so of class time will be devoted to group work, usually bearing directly on the "Implosion Project" – around which most of your graded work will be based, and about which you will find a great deal more detail in the assignment document. 
+
+At their best, seminars are among the most effective types of classroom environment, but they depend greatly on the engagement and commitment of the students involved. Your active, probing, questioning participation is essential to the class. In past years some students have developed a rich and compelling panoply of tools for understanding these phenomena – while others have sleepwalked their way through class and come out with very little. If you can't bring your best game to class, graduate studies may not be the appropriate option for you. 
+
+** Assignments
+This course has one assignment with many parts (see the additional handout), with a balance of 15% based on your participation.  A quick word about Pass/Fail assignments: if you hand in the pass/fail assignments, your final grade will be the weighted average of your graded assignments.  If, however, you fail to hand in one of more of the Pass/Fail assignments, then the full worth of those assignments (up to 20%) will be /deducted from your grade/.  Therefore: please hand them in.
+
+** Learning Outcomes
+Students in the MI program should familiarize themselves with the [[http://current.ischool.utoronto.ca/studies/learning-outcomes][MI program outcomes]]. As a core course in the Culture & Technology stream, this course aligns with all of those outcomes. We are particularly concerned with becoming conversant with fundamental concepts, theories, and practices in the social and cultural studies of technology. This includes basic familiarity with core concepts in STS, Media Studies, and cultural Studies. The course assignment is intended to help you cultivate\ a wide variety of research skills and to begin the process of understanding yourself as an active participant in the intellectual conversations around information technology and its relationship to culture(s).  In conjunction with the C&T stream’s other core courses, this class should provide a solid foundation for future professional and intellectual development in the broad spectrum of careers at the intersection of culture and information technology.
+
+** Course Texts
+You should own the following texts, though copies are also on reserve at the Inforum:  
+- Bruno Latour, /We Have Never Been Modern/ 
+- Lucy Suchman, /Human-Machine Reconfigurations/ 
+# make titles italics
+We will also read parts of a number of books that you may want to own for yourself: Jonathan Sterne's /MP3/; Gillespie, Boczkowski, and Foot's /Media Technologies/; and N. Katherine Hayle's /How We Became Posthuman/. Finally, Sergio Sismondo's /An Introduction to Science and Technology Studies/ offers helpful background on many of the texts and theoretical positions you will encounter in the course; if you find yourself wanting more context, you will find it a thorough and thoughtful field guide. 
+
+** Outline
+*** Intro (Sept. 12)
+*** What are Technology and Culture? (Sept. 19)
+- Langdon Winner, "Technologies as forms of Life", in The Whale and the Reactor. 
+- Illich, Ivan. Tools for Conviviality. New York,Harper & Row. 1973. Ch. 2.
+- Geertz, Clifford. “Thick Description”, in The Interpretation of Cultures. New York: Basic books, 1973. 3-30.
+*** Paradigms, Structures, Worlds of Difference (Sept. 26)
+- Kuhn, Structure of Scientific Revolutions ch. 3-5,  Postscript
+- Pinch, Trevor J., and Wiebe E. Bijker. “The Social Construction of Facts and Artifacts: Or How the Sociology of Technology can Learn from the Sociology of Science.” The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology. 1987. 17-51.
+*** Beyond "Society" (Oct. 3)
+- Latour, We Have Never Been Modern (pp. 1-67, also consider looking at Ch 4 & 5) 
+*** No class Oct. 10 (Thanksgiving!)
+*** Engaging "Culture" (Oct. 17)
+- Maureen McNeil, “Feminist Cultural Studies of Science and Technology: Roots and Routes” in Feminist Cultural Studies of Science and Technology. New York: Routledge, 2007.  11-24
+- Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”.  Feminist Studies 14:3 (1988) 575-599.  
+- Eglash, Ron. “Appropriating Technology: An Introduction.” In Appropriating Technology: Vernacular Science and Social Power, by Eglash, Ron, vii–xxi, 2004. http://homepages.rpi.edu/~eglash/eglash.dir/at/intro.pdf 
+*** Materialism(s) (Oct. 24)
+- Laet, Marianne de, and Annemarie Mol. 2000. “The Zimbabwe Bush Pump: Mechanics of a Fluid Technology.” Social Studies of Science 30 (2): 225–63. doi:10.2307/285835.
+- Sterne, "What do we want? Materiality. When do we want it? Now!"  in Boczkowski, Pablo J., Kirsten A. Foot, and Tarleton Gillespie, eds. Media Technologies : Essays on Communication, Materiality, and Society. Cambridge, MA: The MIT Press, 2014. 119-128.
+*** An Information Age (Oct. 31)
+- N. Katherine Hayles, How We Became Posthuman ch 1,4. 
+- Wiener, "Human Use of Human Beings", Ch 1-2 of second edition.
+*** Interactions (Nov. 7)
+- Suchman, Human-Machine Reconfigurations  (Ch 1-5, 11, 15)
+*** READING WEEK – NO CLASS NOV. 14!
+*** Infrastructures (Nov. 21)
+- Harvey, Penny, and Hannah Knox. “The Enchantments of Infrastructure.” Mobilities 7, no. 4 (2012): 521–36. doi:10.1080/17450101.2012.718935. 
+- Bowker et al., “Toward Information Infrastructures”, in . Hunsinger et al. (eds.),International Handbook of Internet Research. Springer: 2010.
+*** Codecs (Nov. 28)
+# change this week
+- Jonathan Sterne, “Nature Builds No Telephones” in  MP3 : The Meaning of a Format. Durham: Duke University Press, 2012.
+- Jonathan Sterne. “The mp3 as Cultural Artifact.” New Media and Society 8, no. 5 (2006): 825–42.
+- Adrian McKenzie, "Codecs" in Software Studies: A Lexicon 
+*** Algorithms (Dec. 5)
+# make about data-driven everything
+- Gillespie, “The Relevance of Algorithms” in Boczkowski, Pablo J., Kirsten A. Foot, and Tarleton. Gillespie, eds. Media Technologies : Essays on Communication, Materiality, and Society. Cambridge, MA: The MIT Press, 2014.
+- Amoore, Louise. “Algorithmic War: Everyday Geographies of the War on Terror.” Antipode 41, no. 1 (January 2009): 49–69. doi:10.1111/j.1467-8330.2008.00655.x.
+- Sharkey & Suchman. “Wishful Mnemonics and Autonomous Killing Machines.” Proceedings of the AISB 136 (May 2013): 14–22.
+*** Games (Dec. 12)
+# scrap this theme and change to something new
+- Grimes, Sara M., and Andrew Feenberg. 2009. “Rationalizing Play: A Critical Theory of Digital Gaming.” The Information Society 25 (2): 105–18.
