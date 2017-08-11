@@ -8,17 +8,35 @@
 
 “Any interesting being in technoscience, like a textbook, molecule, equation, mouse, pipette, bomb, fungus, technician, agitator, or scientist can—and often should—be teased open to show the sticky economic, technical, political, organic, historical, mythic, and textual threads that make up its tissues” Donna Haraway, Modest_Witness@Second_Millennium, p. 68)
 
-*This course has only one assignment, with many parts.*  To carry it out, you will need an artifact: some piece of technology that you will study in-depth in a number of assignments over the course of the semester. You are not required to choose a “digital” or “information” technology, but you are strongly encouraged to consider your direction in the MI program. Most C&T students will be interested in some combination of Critical Media Studies, Science & Technology Studies, and the digital humanities. Ask yourself: by studying this artifact, will I explore issues that help me clarify and attain my objectives in the MI?
+*This course has only one assignment, with many parts.*  To carry it out, you will need an artifact: some piece of technology that you will study in-depth in a number of assignments over the course of the semester. 
+# this sentence will lead to "i wanna do a book"
+You are not required to choose a “digital” or “information” technology, but you are strongly encouraged to consider your direction in the MI program. Most C&T students will be interested in some combination of Critical Media Studies, Science & Technology Studies, and the digital humanities. Ask yourself: by studying this artifact, will I explore issues that help me clarify and attain my objectives in the MI?
+# this text (or edited version of it) should move into selection below. 
 The more specific yor technology, the better.  Not just Android, but the rattly shanzhai phone your friend picked up for you in the Huaqiangbei market in Shenzhen.  Not just an abacus, but the brightly-painted child's toy you found when you were sorting through your grandmother's belongings.  Not just a pen: the mass-produced Bics you found in the supply closet, or the engraved Cross pen your grandfather was given when he graduated from Cooper Union. Not “digital music”, but a particular MP3 file downloaded from the Internet. The key to this assignment is to choose artifacts that will allow you to dig into socio-cultural histories, materialities, and contexts in which you are interested. 
+
 Over the course of the semester we will work a series of transformations on this object, culminating in a mid-length research paper..  This document details all the steps along the way, graded and ungraded.  If you hit the ground running and move steadily throughout the semester, this should be a lot of fun. Be prepared for a certain amount of ambiguity and guessing regarding the more exploratory aspects of this assignment, but do not let your imagination stand in for diligent work and research. Be prepared to dig in and explore, to search for information and traces of the history and contexts of your objects – you will find that there are social forces which attempt to delimit our knowledge of the real histories of objects. We will be working against the long-standing trope which divides the ‘social’ and the ‘technological’ into separate camps. 
+# groups should change... not be fixed. we use their objects each week to move them into groups. each week, the groups will rehearse the implosion exercise for that week with one person's object.
+# groups might help identify different ways of knowing about the same/similar objects
+# implosion activities each week
 The assignment makes reference throughout to “your group” – these are groups of 4 or 5 students chosen at random at the beginning of class.  While this is an individual project, groups will work together and present to each other at various times through the semester.  Percentages refer to percentages of the final mark in the course.
+# we come up with some object examples to demonstrate how certain objects cross themes. ultimate goal is to get them to be able to do this. students, once having selected an object, will need to articulate how it connects to a specific theme each week, but also to articulate how it crosses over to other themes. by the end of the course, we want them to revisit how/whether their conception of where their object lies might have changed. 
+# e.g. tensorflow. links to automation. data-driven life. inclusivivity in tech.
+# identifying the matrix of themes is part of the design process.
 
 ** Choose an Object
+# prompt them the first day in class to go find an object... can eat an hour or so going on field trips. make them come back and report in. 
+# we can structure their object-selection process - compile a list of media stories that connect to the themes of the course
+# http://howstuffismade.org/ jeremijenko really forced students to find out how the things were made... we could make students do more of that and, at the same time, reduce the elements that we ask them to carry out.
+# then, we could activate this by asking them to change one or more aspects to adapt the object and describe how it would change. 
+# they could be forced to select objects of controversy. design evil objects. e.g. how would you make something like facebook more evil. 
+# students have a lot of difficulty selecting an object
+
 ​Due: By end of class, Sept. 26, Unmarked, 0%
 
 Choose your object carefully.  You will want something that relates to your intellectual interests.  Are you interested in digital humanities? Perhaps consider an e-book, digital map, or database. Hoping to work in social media? Perhaps a small, third-party app (not Facebook!), or better, an algorithm used by one such app, or an app-buuilding tool.  Interested in the medical system? Perhaps a diagnostic algorithm, or a test, vaccine, or data management tool.  Don't know yet what you're interested in?  Time to figure it out!  Whatever you choose, you should be as specific as possible.  The richness of your analysis will be in part determined by the highly specific connections you can draw between your object and other parts of the world.
 
 ** The object in the world, the world in It # 1[Brainstorm]
+# deconstruction activity
 ​Due: Oct. 3, Pass/Fail, 10%.  Marking Commitment: 10 mins/student
 
 We will start this in class the week before this assignment is due.  An electronic copy is due in Blackboard and in Dropbox Requests (https://www.dropbox.com/request/2bVH8eeaMKT3ORo20rbG) before class starts on Sept. 24, and you will present your findings in class to your small group.  Read the whole description before you begin.  
@@ -34,8 +52,10 @@ Go through the list below and try to answer each question as best you can; if it
 - *Political dimensions*: What kinds of local, national, and international bodies claim jurisdiction over it? What bodies play a part in approving it (e.g., lobbyists, patents, corporate sponsorship, etc.)? What are the histories of regulations concerning it? How do these regulations help constitute it? How is it understood in terms of political positions in the world? How can we articulate the ways it is understood with political discourses? How is it hegemonic—in what ways can we see it as marshaling our consent to dominant orders? What kinds of legislation affect it? How do political considerations make use of it? What are the political positions as seen through the lens of this artifact (they often vary by artifact and moment)? How does this matter?
 - *Economic dimensions*: The process as commodity: how is it marketed, purchased, consumed? Where and by whom? How is it involved in a world marketplace? What kinds of capital, debt, credit, and labor relations are involved in producing, marketing, and circulating it? Who sells it? How are costs calculated? How are risks calculated? By whom and when? What are the histories materials come from? How are they disposed of? What hazards are considered among these materials? What are the labor dimensions of these material productions? What are the global, economic, and political dimensions of their use? What are the histories, sciences, and political dimensions of these materials? How do these help constitute it?
 - *Particle Dimensions*: How can the object be divided up? What are its parts? What are its stages? Treating each part or stage as a process, repeat the above analysis.
+# how does your object participate in a larger network of objects?
 
 ** The object in the world, the world in It # 2[Brainstorm]
+# construction/invention activity
 ​Due: Oct. 10, Pass/Fail, 10%.  Marking Commitment: 10 mins/student
 
 Continue the work started in the previous week. Append answers to your previous document and upload your new more complete version to Blackboard & Dropbox Requests (https://www.dropbox.com/request/2bVH8eeaMKT3ORo20rbG) before class starts on Oct 10. Again, you will present your findings in class to your small group.  Read the whole description before you begin.
@@ -52,6 +72,7 @@ Go through the list below and try to answer each question as best you can; if it
 - *Symbolic dimensions*: What are the many different ways in which it can be taken as a symbol? How does this process serve in symbolic systems? What sorts of ideas, metaphors, movements, ideologies, and the like are associated with it? For whom are these relevant, to whom do they matter, and what contests over meaning are they involved in? What are the histories of these meanings and contests over meaning? How do they matter?
 
 ** Gap Map
+# construction/invention activity
 ​Due Oct. 17 at 10:00AM, Pass/Fail, 5%.  Marking commitment: 5 mins/student
 
 Think about your answers to the questions explored in the first two assignments. Imagine these dimensions projected, through some unknown algorithm, into the two-dimensional space of a map or chart, with regions color-coded (heat-mapped!) according to your level of interest and expertise. Try diagraming your answers in some sort of specific way, for example based on your amount of interest, your level  of knowledge, or other criteria. 
@@ -66,8 +87,10 @@ Your gap map will provide you with a number of research areas (dimensions) in wh
 Bring your completed documents (all 3) to class on Oct. 31; we will hold a peer-review exercise in the third hour, and you will have until 5pm the following day to submit your finished work to me by Blackboard and Dropbox Requests (https://www.dropbox.com/request/9NhNSZEOiBDhd1axNzVx).  No extensions.
 
 ** Research Treatment
+# goal should be to sketch out the theme matrix
 ​Due Dec. 5 at 10:00AM, Graded, 35%.  Marking commitment: 30 mins/student.
 
 This is a bog-standard research paper of the kind you've done a dozen times before, except that you have prepared for it with the gap map, the 3 précis, and the paper about your artifact.  Now you need to ask yourself:  what is the one great thing I want to say about this artifact? And what tools and styles of writing can I use to communicate that story – as myself, not as someone else!  Clear your desk.  Turn off the Internet.  Bite your nails if you have to; it's OK if they tear a little, but not so bad that you need to distract yourself by running to get a band-aid.  
 
-12-15 pages (3500+ words), marked as usual on argument, creativity, coherence, and style.  3%/day late penalty.  Submit via Blackboard and Dropbox Requests (https://www.dropbox.com/request/xTznvDAW7S3mCMZIKQ9f). 
+12-15 pages (3500+ words), marked as usual on argument, creativity, coherence, and style.  3%/day late penalty.  Submit via Blackboard and Dropbox Requests (https://www.dropbox.com/request/xTznvDAW7S3mCMZIKQ9f).
+
