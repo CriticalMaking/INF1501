@@ -12,6 +12,10 @@
 # need to prompt them at the end for what they'll work toward in culture and tech II as far as intervening
 # need to make it more appealing to UxD students
 # maybe some active micro-assignments
+# find issues/issue-ify the themes for each week
+# avoid too much media studies/online
+# themes: politics of infrastructures. labour/gender/etc. algorithmic life. # who makes technology? who is expected to use technology? a week on national-level technology. sublime. cold war stuff. manifest destiny. nationhood and the technological.
+# biological determinism and technology.  
 
 * Course details
   :PROPERTIES:
@@ -52,29 +56,39 @@ You should own the following texts, though copies are also on reserve at the Inf
 - Bruno Latour, /We Have Never Been Modern/ 
 - Lucy Suchman, /Human-Machine Reconfigurations/ 
 # make titles italics
-We will also read parts of a number of books that you may want to own for yourself: Jonathan Sterne's /MP3/; Gillespie, Boczkowski, and Foot's /Media Technologies/; and N. Katherine Hayle's /How We Became Posthuman/. Finally, Sergio Sismondo's /An Introduction to Science and Technology Studies/ offers helpful background on many of the texts and theoretical positions you will encounter in the course; if you find yourself wanting more context, you will find it a thorough and thoughtful field guide. 
-
-** Outline
+We will also read parts of a number of books that you may want to own for yourself: Jonathan Sterne's /MP3/; Gillespie, Boczkowski, and Foot's /Media Technologies/; and N. Katherine Hayle's /How We Became Posthuman/. Finally, Sergio Sismondo's /An Introduction to Science and Technology Studies/ offers helpful background on many of the texts and theoretical positions you will encounter in the course; if you find yourself wanting more context, you will find it a thorough and thoughtful field guidetline
 # take a look at biella coleman's mcgill course: https://groups.google.com/forum/#!msg/stsgrad/G1-jryk91W4/PnbzOe6ZBwAJ
 *** Intro (Sept. 12)
+# rehearse the entire class. rehearse a few of the parts of the whole class. prompt them to choose an object that they can bring in for the next class. 
 *** What are Technology and Culture? (Sept. 19)
+# theme: ways of thinking about culture and tech
+# choose an object
 - Langdon Winner, "Technologies as forms of Life", in The Whale and the Reactor. 
 - Illich, Ivan. Tools for Conviviality. New York,Harper & Row. 1973. Ch. 2.
+# maybe get something more modern/current
 - Geertz, Clifford. “Thick Description”, in The Interpretation of Cultures. New York: Basic books, 1973. 3-30.
-*** Paradigms, Structures, Worlds of Difference (Sept. 26)
+*** Paradigms, Structures, Worlds of Difference (Sept. 26) 
+# ways thes things have been parsed
+# instead, methods of analysis: SCOT/lab studies/etc.
 # why do they need to read kuhn?
+# latour
+# shapin and shaffer
 - Kuhn, Structure of Scientific Revolutions ch. 3-5,  Postscript
 - Pinch, Trevor J., and Wiebe E. Bijker. “The Social Construction of Facts and Artifacts: Or How the Sociology of Technology can Learn from the Sociology of Science.” The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology. 1987. 17-51.
+# add
+- Latour, We Have Never Been Modern (pp. 1-67, also consider looking at Ch 4 & 5)
+- cyborg manifesto haraway
 *** Beyond "Society" (Oct. 3)
-# what about cautious prometheus
-- Latour, We Have Never Been Modern (pp. 1-67, also consider looking at Ch 4 & 5) 
-*** No class Oct. 10 (Thanksgiving!)
-*** Engaging "Culture" (Oct. 17)
 # scrap mcneil
 # week should be about nature|culture, so ratto2016making might be a good fit
 - Maureen McNeil, “Feminist Cultural Studies of Science and Technology: Roots and Routes” in Feminist Cultural Studies of Science and Technology. New York: Routledge, 2007.  11-24
-- Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”.  Feminist Studies 14:3 (1988) 575-599.  
+- Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”.  Feminist Studies 14:3 (1988) 575-599.
+# teddy bear patriarchy
+- standpoint... harding  
 - Eglash, Ron. “Appropriating Technology: An Introduction.” In Appropriating Technology: Vernacular Science and Social Power, by Eglash, Ron, vii–xxi, 2004. http://homepages.rpi.edu/~eglash/eglash.dir/at/intro.pdf 
+*** No class Oct. 10 (Thanksgiving!)
+*** Perspective (Oct. 17)
+# open week
 *** Materialism(s) (Oct. 24)
 # interview with barad about new materialism in umichigan thing: https://quod.lib.umich.edu/o/ohp/11515701.0001.001/1:4.3/--new-materialism-interviews-cartographies?rgn=div2;view=fulltext
 - Laet, Marianne de, and Annemarie Mol. 2000. “The Zimbabwe Bush Pump: Mechanics of a Fluid Technology.” Social Studies of Science 30 (2): 225–63. doi:10.2307/285835.
@@ -95,7 +109,7 @@ We will also read parts of a number of books that you may want to own for yourse
 # change this week. should be about formats. standards. 
 # or what about a week on how tech is built/who builds tech and the epistemic values that are reinforced?
 # peterson interview with damore https://www.youtube.com/watch?v=agU-mHFcXdw
-# on damore https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788
+# on damore https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788 
 - Jonathan Sterne, “Nature Builds No Telephones” in  MP3 : The Meaning of a Format. Durham: Duke University Press, 2012.
 - Jonathan Sterne. “The mp3 as Cultural Artifact.” New Media and Society 8, no. 5 (2006): 825–42.
 - Adrian McKenzie, "Codecs" in Software Studies: A Lexicon 
