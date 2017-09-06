@@ -1,10 +1,6 @@
-#+TITLE: INF 1501: Culture and Technology I
+#+TITLE: INF 1501: Culture and Technology I (Fall 2017) - Syllabus
 #+NAME: Gabby Resch and Matt Ratto
 #+STARTUP: showall
-
-* Course details
-
-INF 1501: Culture and Technology I - Fall 2017
 
 *Instructors:* Professor Matt Ratto, Semaphore Research Cluster, matt.ratto@utoronto.ca; Gabby Resch, Semaphore Research Cluster, gabby.resch@utoronto.ca
 
@@ -151,7 +147,7 @@ We will also read parts of a number of books that you may want to own for yourse
 # add something about automation
 # scrap Sharkey & Suchman. “Wishful Mnemonics and Autonomous Killing Machines.” Proceedings of the AISB 136 (May 2013): 14–22.
 *** Entertainment Media - FINAL CLASS (Dec. 11)
-# Theme: The attention economy. Social media society. Echo chambers. Alienation.
+# Theme: Pervasive screens. The attention economy. Social media society. Echo chambers. Alienation.
 # Discussion Issue: Have cellphones destroyed a generation?
 # Questions:
 # Activity:
