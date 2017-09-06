@@ -2,16 +2,16 @@
 #+NAME: Gabby Resch and Matt Ratto
 #+STARTUP: showall
 
-*Instructors:* Professor Matt Ratto, Semaphore Research Cluster, matt.ratto@utoronto.ca; Gabby Resch, Semaphore Research Cluster, gabby.resch@utoronto.ca
+*Instructors:* Matt Ratto, Faculty of Information, [[mailto:matt.ratto@utoronto.ca][matt.ratto@utoronto.ca]]; Gabby Resch, Faculty of Information, [[mailto:gabby.resch@utoronto.ca][gabby.resch@utoronto.ca]]
 
 *Class times and location:* Monday, BL 507, 6:30-9:30pm
 
-*Office hours:* by appointment
+*Office hours:* By appointment
 
 A repository of course materials is located at https://github.com/criticalmaking/INF1501
 
 ** Overview
-# update a bit and maybe trim
+# update and trim
 The course is an introduction to various approaches that will help students understand and intervene in the culture-technology nexus. It is intended primarily as an orientation for students in the Culture & Technology concentration of the Masters of Information program, but it endeavours to provide knowledge and skills to any graduate student exploring Science & Technology Studies (STS), Critical Media Studies, or Digital Humanities. In the first part of the course, we explore some of the diverse approaches that have been brought to bear on this rich and densely-populated intersection: philosophical, sociological, anthropological, historical, and literary questions, themes, and methods will be examined. In the second part, we turn to a series of thematics with broad resonance for students interested specifically in information and technology. Throughout the course, our goals will be:
 - to challenge normative conceptions of the objects of study (science, technology, culture, information) and consider how the readings help us to come to more nuanced, complex, and effective understandings; 
 - to acquire a rough map of the theoretical and methodological approaches that converge on "culture and technology", and understand how different approaches reinforce, complement, and contradict each other; 
@@ -27,11 +27,12 @@ At their best, seminars are among the most effective types of classroom environm
 
 ** Assignments
 # participation or not?
-This course has one assignment with many parts (see the additional handout), with a balance of 15% based on your participation.  A quick word about Pass/Fail assignments: if you hand in the pass/fail assignments, your final grade will be the weighted average of your graded assignments.  If, however, you fail to hand in one of more of the Pass/Fail assignments, then the full worth of those assignments (up to 20%) will be /deducted from your grade/.  Therefore: please hand them in.
+This course has one connected assignment with various parts (see the additional handout), with a balance of 15% based on your participation.
+# A quick word about Pass/Fail assignments: if you hand in the pass/fail assignments, your final grade will be the weighted average of your graded assignments.  If, however, you fail to hand in one of more of the Pass/Fail assignments, then the full worth of those assignments (up to 20%) will be /deducted from your grade/.  Therefore: please hand them in.
 
 ** Learning Outcomes
 # trim a bit
-Students in the MI program should familiarize themselves with the [[https://ischool.utoronto.ca/areas-of-study/master-of-information/][MI student learning outcomes]]. As a core course in the /Culture & Technology/ concentration, INF1501 is particularly concerned with helping students become conversant with fundamental concepts, theories, and practices in the social and cultural studies of technology. This includes basic familiarity with core concepts in STS, Media Studies, and cultural Studies. The course assignment is intended to help you cultivate a wide variety of research skills and to begin the process of understanding yourself as an active participant in the intellectual conversations around information technology and its relationship to culture(s). In conjunction with the C & T concentration's other core courses, this class should provide a solid foundation for future professional and intellectual development in the broad spectrum of careers at the intersection of culture and information technology.
+Students in the MI program should familiarize themselves with the [[https://ischool.utoronto.ca/areas-of-study/master-of-information/][MI student learning outcomes]]. As a core course in the /Culture & Technology/ concentration, INF1501 is particularly concerned with helping students become conversant with fundamental concepts, theories, and practices in the social and cultural studies of technology. This includes basic familiarity with core concepts in STS, Media Studies, and cultural Studies. The course assignment is intended to help you cultivate a wide variety of research skills and to begin the process of understanding yourself as an active participant in the intellectual conversations around information technology and its relationship to culture(s). In conjunction with the C&T concentration's other core courses, this class should provide a solid foundation for future professional and intellectual development in the broad spectrum of careers at the intersection of culture and information technology.
 
 ** Weekly Readings
 You should own the following texts, though copies are also on reserve at the Inforum:  
@@ -45,6 +46,56 @@ We will also read parts of a number of books that you may want to own for yourse
 
 *** Introduction (Sept. 11)
 # Plan: rehearse the separate parts of the entire class. prompt students to choose an object that they can bring in/discuss for the next class. 
+# choosing an object: The more specific your technological artifact, the better. Not just Android, but the rattly shanzhai phone your friend picked up for you in the Huaqiangbei market in Shenzhen. Not just an abacus, but the brightly-painted child's toy you found when you were sorting through your grandmother's belongings. Not just a pen: the mass-produced Bics you found in the supply closet, or the engraved Cross pen your grandfather was given when he graduated from Cooper Union. Not “digital music”, but a particular MP3 file downloaded from the Internet. 
+# prompt them the first day in class to go find an object... can eat an hour or so going on field trips. make them come back and report in. or we bring them examples. this is probably a better idea. we can choose examples that help direct them to the linkages we want.
+# we can structure their object-selection process - compile a list of media stories that connect to the themes of the course
+# http://howstuffismade.org/ jeremijenko really forced students to find out how the things were made... we could make students do more of that and, at the same time, reduce the elements that we ask them to carry out.
+# then, we could activate this by asking them to change one or more aspects to adapt the object and describe how it would change. 
+# they could be forced to select objects of controversy. design evil objects. e.g. how would you make something like facebook more evil. 
+# students have a lot of difficulty selecting an object
+# Are you interested in digital humanities? Perhaps consider an e-book, digital map, or database. Hoping to work in social media? Perhaps a small, third-party app (not Facebook!), or better, an algorithm used by one such app, or an app-buuilding tool.  Interested in the medical system? Perhaps a diagnostic algorithm, or a test, vaccine, or data management tool.  Don't know yet what you're interested in?  Time to figure it out!  Whatever you choose, you should be as specific as possible. 
+
+# more on assignment from syllabus: If you hit the ground running and move steadily throughout the semester, this should be a lot of fun. Be prepared for a certain amount of ambiguity and guessing regarding the more exploratory aspects of this assignment, but do not let your imagination stand in for diligent work and research. Be prepared to dig in and explore, to search for information and traces of the history and contexts of your objects – you will find that there are social forces which attempt to delimit our knowledge of the real histories of objects. We will be working against the long-standing trope which divides the ‘social’ and the ‘technological’ into separate camps. 
+
+# groups: # groups will change... not be fixed. we use their objects each week to move them into groups. each week, the groups will rehearse the implosion exercise for that week with one person's object.
+# groups can be organized by categorizing: i.e. "everybody whose object is related to gender, go here. everybody whose object is related to such and such a phenomenon... go here"
+# groups might help identify different ways of knowing about the same/similar objects
+# implosion activities each week
+# this accretes weekly. one person in the group presents or talks about theirs that week.
+
+# deconstruction project: # deconstruction activity
+# 4 weeks deconstruction paper - 10 pages ish. each week they write a page of text. then they compile them and carry out some analytic activity. describe your object. describe each of these 4 thematics in relation to the object. tell us how two of them are related. 25% 
+# provide the following as a prompt, rather than as text in the assignment body
+# Clear your head and clear your desk. If your object is material place it in front of you – if not, try to find some trace of it that you can use to focus your attention. You will need to attend directly to your object and your thoughts, understanding, and knowledge of it. Put away your computer and your phone if they are distractions. You will need a couple of hours to do this right, and will probably require more than one session. NOTE: For at least the first hour, do not use the Internet to find information – instead, draw upon your own knowledge and understanding. After an hour, if you find it necessary, feel free to go online to look for relevant material.Go through the list below and try to answer each question as best you can; if it's useful to draw diagrams or charts, do so (take pictures of them when you're done, and include in your final document).  The questions overlap a little, so it may be hard to decide where to put your answers; decide as best you can.  If it seems a question is missing, add a new one.  As you answer questions, you will find that new artifacts emerge.  Take note of them and follow their trajectories, too, as you continue down the list. Also note your own (lack of) certainty about your answers:  whether you feel you know the answer in detail, have a good idea about it, a guess, or no idea. If you find it difficult to know or discover the answer to a certain question, think about where the difficulties arise. The purpose of this exercise is to explore the material and socio-cultural complexity that permeates these real, situated artifacts; later stages of the project will make extensive use of your work here. 
+# instead of having these all be part of an assignment that they turn in, we have them do one of each of these each week (or so) and there's a due date where they turn in all their deconstructive ones (after week 6ish). the exercise could be to have them summarize or compare 2 of the dimensions.
+
+# weekly thematic prompts: 
+# *Material dimensions*: What materials are involved in its production and maintenance? Where have these materials come from? How are they disposed of? What hazards are considered among these materials? What are the labor dimensions of these material productions? What are the global, economic, and political dimensions of their use? What are the histories, sciences, and political dimensions of these materials? How do these help constitute it?
+# *Technological dimensions*: What kinds of technologies and machines enable it to be produced and maintained? What technologies are joined with it? Who has access to these machines and technologies? What are their histories? What sorts of information technologies are involved? What are the political, economic, bodily, labor, and historical dimensions of these technologies? How do they help constitute it?
+# *Labor dimensions*: How was it produced and who is involved in its production? Are there stages in its production? Where has it traveled to and from? What are the histories of its productions? Who maintains these processes of production? Where are they maintained? How is it used and how is using it seen as labor, or not? What forms of labor and work incorporate it or make use of it? Is it used up? If not, how is it passed on, transferred, communicated? What routes do these processes take? What kinds of actors (human and nonhuman) are involved, and what kinds are excluded?
+# *Context, geography, and situatedness*: Where does it appear in the world?  How has it travelled?  How does it appear and next to what or in what? What activities or ways of life enable one to come across it? What kinds of audiences is it addressed to? Who is excluded in these addresses? When can it appear? What is the rhythm of its appearance? How does this matter?
+# *Political dimensions*: What kinds of local, national, and international bodies claim jurisdiction over it? What bodies play a part in approving it (e.g., lobbyists, patents, corporate sponsorship, etc.)? What are the histories of regulations concerning it? How do these regulations help constitute it? How is it understood in terms of political positions in the world? How can we articulate the ways it is understood with political discourses? How is it hegemonic—in what ways can we see it as marshaling our consent to dominant orders? What kinds of legislation affect it? How do political considerations make use of it? What are the political positions as seen through the lens of this artifact (they often vary by artifact and moment)? How does this matter?
+# *Economic dimensions*: The process as commodity: how is it marketed, purchased, consumed? Where and by whom? How is it involved in a world marketplace? What kinds of capital, debt, credit, and labor relations are involved in producing, marketing, and circulating it? Who sells it? How are costs calculated? How are risks calculated? By whom and when? What are the histories materials come from? How are they disposed of? What hazards are considered among these materials? What are the labor dimensions of these material productions? What are the global, economic, and political dimensions of their use? What are the histories, sciences, and political dimensions of these materials? How do these help constitute it?
+# *Particle Dimensions*: How can the object be divided up? What are its parts? What are its stages? Treating each part or stage as a process, repeat the above analysis.
+# *Textual dimensions*: What texts are involved in it? What texts refer to it? What kinds of texts? Who produces them and who reads them? Where and in what organizations and institutions are the texts produced and read? What are the histories of these texts and how are they funded? What kinds of textual associations can be made? How does this matter?
+# *Bodily/organic dimensions*: How are bodies related to it? What forms of attention, affect, emotion, and cognition are involved? Are there particular ways in which we think of ourselves that also involve or sustain this process? What kinds of bodies, including nonhumans, and bodily relations are involved in producing it? What kinds make use of it? How are these bodies and relations gendered? Are there racial, gendered, differently abled, or other group identifications that help construct these bodies? What ways of life are involved? What are the histories of all these relations? How do these help constitute it?
+# *Historical dimensions*: What concepts refer to it? What are the histories of these concepts? Was it invented, when and by whom? Are there different and competing versions of its histories? Who tells these histories? How has it traveled historically? Repeat the above dimensions for each aspect of its history. How do these help constitute it?
+# *Professional/Epistemological dimensions*: How is knowledge of the object and its production demarcated and professionalized? What kinds of knowledge count in talking about it? What kind of professionals are involved in making expert decisions regarding its development, production, and dissemination? How are each of these stages funded? In projecting its future use? What kinds of controversies of this knowledge are happening? Who is involved? In what kinds of institutions do they work? How is it articulated by medical, legal, governmental, religious, psychological, engineering, military, economic, academic, new age, and educational professionals? What are the political-economic histories of this?
+# *Educational dimensions*: How does it appear in our socialization? When do we learn about it in school? During the rest of life? What kinds of people/bodies get to learn about it? How much do we learn about it? What aspects of it are avoided? What are the histories of teaching about it? How does this matter?
+# *Mythological dimensions*: What roles does it play in fantasies? What kinds of national narratives make use of it? How does it appear in entertainment? What other grand narratives, stories, and strong associations involve it (e.g., progress, risk, joy, fear, science, militarism, success, decline, horror, self-improvement, financial security, nuclear family, motherhood, fatherhood, independence, adolescence, democracy, origin stories, stories of difference, privilege, death, pornography, sports)? How do these matter?
+# *Symbolic dimensions*: What are the many different ways in which it can be taken as a symbol? How does this process serve in symbolic systems? What sorts of ideas, metaphors, movements, ideologies, and the like are associated with it? For whom are these relevant, to whom do they matter, and what contests over meaning are they involved in? What are the histories of these meanings and contests over meaning? How do they matter?
+
+# final assignment:
+# design document that includes text and leveragfes the deconstructive stuff
+# deconstructive analysis
+# design or pre-design treatment
+# build a scenario
+# have to reveal their knowledge of the themes
+# focus here is more on the analytic/deconstructive, but it's speculative in scope. come up with a speculative alternative. 
+# here's the design treatment. last 5 weeks is working through the design jam in class. design document/brief
+# construction/invention activity
+# has to be some writing involved
+
 *** What are Culture and Technology? (Sept. 18)
 # Theme: Different ways of thinking about culture and technology. Determinism. 
 # Discussion Issue: Silicon Valley vs the World
@@ -58,13 +109,14 @@ We will also read parts of a number of books that you may want to own for yourse
 *** Methods of Interpretation and Analysis (Sept. 25)
 # Theme: How have last week's questions been understood by scholars (espcially those in our field)? Introduction to STS methods and themes, incl. SCOT, lab studies, ANT, etc. 
 # Discussion Issue: Discursive vs material engagement
-# Questions: What are the best ways to parse C & T?
+# Questions: What are the best ways to parse C&T?
 # Activity:
 # Notes:
 - Pinch, Trevor J., and Wiebe E. Bijker. “The Social Construction of Facts and Artifacts: Or How the Sociology of Technology can Learn from the Sociology of Science.” The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology. 1987. 17-51.
 - Latour, We Have Never Been Modern (pp. 1-67, also consider looking at Ch 4 & 5)
 - Haraway, Donna. "A Manifesto for Cyborgs", in /The Haraway Reader/. 2004.
-# scrap Kuhn, Structure of Scientific Revolutions ch. 3-5,  Postscript
+# scrap Kuhn, Structure of Scientific Revolutions ch. 3-5, Postscript
+# what about adding van der tuin diffractive reading
 # Former theme: Paradigms, Structures, Worlds of Difference
 *** Epistemologies (Oct. 02)
 # Theme: Other ways of knowing. Situated knowledges. Introduction to feminist STS. Gender and knowledge work.
@@ -80,7 +132,7 @@ We will also read parts of a number of books that you may want to own for yourse
 # Former theme: Beyond "Society"
 *** THANKSGIVING - NO CLASS (Oct. 09)
 *** Truth and Authority (Oct. 16)
-# Theme: Authority to make claims about the world. Primer on "truth" as a structuring concept for how we think about C & T. Sokal affair and its continuing legacy.
+# Theme: Authority to make claims about the world. Primer on "truth" as a structuring concept for how we think about C&T. Sokal affair and its continuing legacy. Recent Sokal 2.0. Continuation of discussion from epistemologies week.
 # Discussion Issue:
 # Questions:
 # Activity: Detecting fake news with ML ipynb walkthrough https://www.datacamp.com/community/tutorials/scikit-learn-fake-news#gs.iCKzzh0
@@ -115,6 +167,7 @@ We will also read parts of a number of books that you may want to own for yourse
 # Notes:
 - Suchman, Human-Machine Reconfigurations  (Ch 1-5, 11, 15)
 # too much suchman. should add something. Olia Lialina Turing Complete User.
+# if adding ihde to previous week, need to emphasize the crossover to this week. see rosenberger and verbeek's book
 *** Infrastructures (Nov. 20)
 # Theme: The black box of infrastructure. Not that we can't "know" the cloud, but that the people who support it are erased. Politics of infrastructures. National technologies and the sublime. Manifest destiny. Nationhood and the technological.
 # Discussion Issue: Where is the internet?
@@ -145,13 +198,15 @@ We will also read parts of a number of books that you may want to own for yourse
 - Gillespie, “The Relevance of Algorithms” in Boczkowski, Pablo J., Kirsten A. Foot, and Tarleton. Gillespie, eds. Media Technologies: Essays on Communication, Materiality, and Society. Cambridge, MA: The MIT Press, 2014.
 - Amoore, Louise. “Algorithmic War: Everyday Geographies of the War on Terror.” Antipode 41, no. 1 (January 2009): 49–69. doi:10.1111/j.1467-8330.2008.00655.x.
 # add something about automation
+# bogost cathedral of computation
+# morozov tamin of tech criticism https://thebaffler.com/salvos/taming-tech-criticism
 # scrap Sharkey & Suchman. “Wishful Mnemonics and Autonomous Killing Machines.” Proceedings of the AISB 136 (May 2013): 14–22.
-*** Entertainment Media - FINAL CLASS (Dec. 11)
-# Theme: Pervasive screens. The attention economy. Social media society. Echo chambers. Alienation.
+*** Connectivity - FINAL CLASS (Dec. 11)
+# Theme: Entertainment media. Pervasive screens. The attention economy. Social media society. Echo chambers. Alienation.
 # Discussion Issue: Have cellphones destroyed a generation?
 # Questions:
 # Activity:
-# Notes: need to prompt them at the end for what they'll work toward in culture and tech II as far as intervening
+# Notes: need to prompt them at the end for what they'll work toward in culture and tech II as far as intervening. morozov on connectivity http://www.newyorker.com/magazine/2013/10/28/only-disconnect-2
 - postman - amusing ourselves to death. 
 # scrap Grimes, Sara M., and Andrew Feenberg. 2009. “Rationalizing Play: A Critical Theory of Digital Gaming.” The Information Society 25 (2): 105–18.
 # former theme: games
