@@ -4,6 +4,8 @@
 #+TODO: TODO COLLECTED GRADED
 #+TODO: TODO DONE
 
+# maybe some active micro-assignments
+
 * (Implosion) Project
 
 # 4 weeks deconstruction paper - 10 pages ish. each week they write a page of text. then they compile them and carry out some analytic activity. describe your object. describe each of these 4 thematics in relation to the object. tell us how two of them are related. 25% 
