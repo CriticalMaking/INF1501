@@ -1,7 +1,6 @@
 #+TITLE: INF 1501: Culture and Technology I (Fall 2017) - Syllabus
 #+NAME: Gabby Resch and Matt Ratto
 #+STARTUP: showall
-#+OPTIONS: \n:f
 
 *Instructors:* Matt Ratto, Faculty of Information, [[mailto:matt.ratto@utoronto.ca][matt.ratto@utoronto.ca]]; Gabby Resch, Faculty of Information, [[mailto:gabby.resch@utoronto.ca][gabby.resch@utoronto.ca]]
 
