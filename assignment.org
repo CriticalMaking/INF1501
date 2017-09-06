@@ -1,6 +1,7 @@
 #+TITLE: INF 1501: Culture and Technology I (Fall 2017) - Assignments
 #+NAME: Gabby Resch and Matt Ratto
 #+STARTUP: showall
+#+OPTIONS: \n:t
 
 # following quote is specific to implosion exercise
 "Any interesting being in technoscience, like a textbook, molecule, equation, mouse, pipette, bomb, fungus, technician, agitator, or scientist can - and often should - be teased open to show the sticky economic, technical, political, organic, historical, mythic, and textual threads that make up its tissues." Donna Haraway, Modest_Witness@Second_Millennium, p. 68)
